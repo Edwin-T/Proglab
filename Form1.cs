@@ -20,22 +20,7 @@ namespace NgamakouaLab2
         
 
         /* this event does noting*/
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnExit_Click(object sender, EventArgs e)
-        {
-           /* the event closes the form*/
-            this.Close();
-        }
-
-        private void btnPicture_Click(object sender, EventArgs e)
-        {
-            /* the event displays the picture and hides data lable */
-            picEM.Show();
-            lblSoccer.Hide();
+        
             
                 
         }
